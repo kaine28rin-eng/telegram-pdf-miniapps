@@ -2,10 +2,17 @@
   "books": [
     {
       "book_id": "stuart-hall-cultural-studies",
-      "title": "Stuart Hall — Cultural Studies and its Theoretical Legacies",
+      "title": "Stuart Hall \u2014 Cultural Studies and its Theoretical Legacies",
       "author": "Stuart Hall",
       "pdf_path": "pdfs/stuart-hall-cultural-studies-theoretical-legacies.pdf",
       "page_count": 278
+    },
+    {
+      "book_id": "sage-dictionary-cultural-studies",
+      "title": "The SAGE Dictionary of Cultural Studies",
+      "author": "Chris Barker",
+      "pdf_path": "pdfs/sage-dictionary-cultural-studies.pdf",
+      "page_count": 412
     }
   ]
 }
