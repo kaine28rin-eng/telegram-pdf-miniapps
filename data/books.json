@@ -1,0 +1,11 @@
+{
+  "books": [
+    {
+      "book_id": "stuart-hall-cultural-studies",
+      "title": "Stuart Hall — Cultural Studies and its Theoretical Legacies",
+      "author": "Stuart Hall",
+      "pdf_path": "pdfs/stuart-hall-cultural-studies-theoretical-legacies.pdf",
+      "page_count": 278
+    }
+  ]
+}
